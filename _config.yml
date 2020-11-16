@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: yf9212/yf9212.github.io
+repository: user_name/repo_name
 repository_tree: master
 
 
@@ -181,7 +181,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : /
+permalink   : date
 
 exclude:
   - CHANGELOG.md
